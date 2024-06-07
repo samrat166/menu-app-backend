@@ -1,0 +1,143 @@
+[
+    {
+      "itemId": "1",
+      "name": "Classic Burger",
+      "description": "A juicy beef patty with lettuce, tomato, and cheese on a toasted bun.",
+      "price": 8.99,
+      "image": "https://www.eatingwell.com/thmb/UY5N-tQKYgA91XJBwiolc_1nbJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3757723-7c4020ccc47240138323b9bc5b730e8d.jpg"
+    },
+    {
+      "itemId": "2",
+      "name": "Cheese Fries",
+      "description": "Crispy fries topped with melted cheddar cheese.",
+      "price": 3.99,
+      "image": "https://www.bunsinmyoven.com/wp-content/uploads/2023/09/thumb-4.jpg"
+    },
+    {
+      "itemId": "3",
+      "name": "Caesar Salad",
+      "description": "Fresh romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+      "price": 7.49,
+      "image": "https://www.seriouseats.com/thmb/Fi_FEyVa3_-_uzfXh6OdLrzal2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-best-caesar-salad-recipe-06-40e70f549ba2489db09355abd62f79a9.jpg"
+    },
+    {
+      "itemId": "4",
+      "name": "Chicken Nuggets",
+      "description": "Tender chicken pieces breaded and fried to perfection.",
+      "price": 4.99,
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2023/08/Air-Fryer-Chicken-Nuggets-close-500x500.jpg"
+    },
+    {
+      "itemId": "5",
+      "name": "Veggie Wrap",
+      "description": "A healthy wrap with mixed veggies, hummus, and avocado.",
+      "price": 6.99,
+      "image": "https://www.superhealthykids.com/wp-content/uploads/2014/07/veggie-wrap-featured-image-square-1-500x375.jpg"
+    },
+    {
+      "itemId": "6",
+      "name": "Chocolate Shake",
+      "description": "Rich and creamy chocolate milkshake topped with whipped cream.",
+      "price": 3.49,
+      "image": "https://houseofnasheats.com/wp-content/uploads/2023/10/FB-Chocolate-Milkshake-1.jpg"
+    },
+    {
+      "itemId": "7",
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with fresh tomatoes, mozzarella, and basil.",
+      "price": 10.99,
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/07/margherita-pizza-500x500.jpg"
+    },
+    {
+      "itemId": "8",
+      "name": "Grilled Salmon",
+      "description": "Freshly grilled salmon served with lemon butter sauce.",
+      "price": 14.99,
+      "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg"
+    },
+    {
+      "itemId": "9",
+      "name": "Tacos",
+      "description": "Soft corn tortillas filled with seasoned beef, lettuce, and cheese.",
+      "price": 5.99,
+      "image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
+    },
+    {
+      "itemId": "10",
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta with eggs, cheese, pancetta, and pepper.",
+      "price": 12.49,
+      "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-square640-v2.jpg"
+    },
+    {
+      "itemId": "11",
+      "name": "Buffalo Wings",
+      "description": "Spicy chicken wings served with blue cheese dip.",
+      "price": 8.49,
+      "image": "https://www.recipetineats.com/wp-content/uploads/2019/01/Baked-Buffalo-Wings_0.jpg"
+    },
+    {
+      "itemId": "12",
+      "name": "French Toast",
+      "description": "Thick slices of bread soaked in egg batter, fried, and topped with syrup.",
+      "price": 7.99,
+      "image": "https://www.allrecipes.com/thmb/Tn5X9tXURgqFUsyBlhD2rEDfP-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-16895-fluffy-french-toast-hero-01-ddmfs-2x1-6167c563f5a9458c9e0412210ce13544.jpg"
+    },
+    {
+      "itemId": "13",
+      "name": "Steak Frites",
+      "description": "Juicy steak served with a side of crispy fries.",
+      "price": 19.99,
+      "image": "https://daenskitchen.com/wp-content/uploads/2023/10/DK-09.10-009.jpg"
+    },
+    {
+      "itemId": "14",
+      "name": "Greek Salad",
+      "description": "A fresh salad with cucumbers, tomatoes, olives, and feta cheese.",
+      "price": 8.49,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "itemId": "15",
+      "name": "Chicken Alfredo",
+      "description": "Pasta in a creamy Alfredo sauce with grilled chicken.",
+      "price": 13.49,
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-above-500x500.jpg"
+    },
+    {
+      "itemId": "16",
+      "name": "Ice Cream Sundae",
+      "description": "Vanilla ice cream with chocolate sauce, nuts, and a cherry on top.",
+      "price": 4.99,
+      "image": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2022/08/Ice-cream-sundae-hero-11.jpg"
+    },
+    {
+      "itemId": "17",
+      "name": "BLT Sandwich",
+      "description": "Crispy bacon, lettuce, and tomato sandwich on toasted bread.",
+      "price": 6.99,
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/07/BLT-Sandwich-Recipe-4.jpg"
+    },
+    {
+      "itemId": "18",
+      "name": "Pad Thai",
+      "description": "Stir-fried rice noodles with shrimp, peanuts, and bean sprouts.",
+      "price": 11.49,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/pad-thai-index-6477629462a38.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "itemId": "19",
+      "name": "Margarita",
+      "description": "Classic cocktail made with tequila, lime juice, and Cointreau.",
+      "price": 8.99,
+      "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/cebd1e0a0bb36d8861c139c8382bd69a/Derivates/4c9bd240ee8ccf662635f8a7f89c65e0f30ac08a.jpg"
+    },
+    {
+      "itemId": "10",
+      "name": "Cheesecake",
+      "description": "Creamy cheesecake with a graham cracker crust and strawberry topping.",
+      "price": 6.49,
+      "image": "https://www.onceuponachef.com/images/2017/12/cheesecake-1200x1393.jpg"
+    }
+  ]
+  
