@@ -12,7 +12,7 @@ app.use(express.json());
 let orders = [];
 let cart = [];
 
-// Get all menu items
+// Get all menu item
 app.get("/menu", (req, res) => {
   res.status(200).json(menuItems);
 });
